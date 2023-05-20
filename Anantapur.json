@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andhra Pradesh"
+      },
+      "geometry": {
+        "arcs": [
+          [
+            2357,
+            2358,
+            -1071,
+            -1125,
+            -1081,
+            -1126,
+            -1079,
+            -1041,
+            2359
+          ]
+        ],
+        "type": "Polygon",
+        "properties": {
+          "NAME1_": "Anantapur",
+          "NAME2_": "Andhra Pradesh",
+          "ID_": "IND028022",
+          "AREA_": 19226.523
+        }
+      }
+    }
+  ]
+}
